@@ -39,7 +39,7 @@ NumPy
 Installation and Setup
 =======================
 Step 1: Clone the Repository
-git clone https://github.com/nehakumari729273/air-writing-system.git
+git clone git clone https://github.com/nehakumari729273-code/AirWriting.git
 cd air-writing-system
 
 Step 2: Install Required Libraries
